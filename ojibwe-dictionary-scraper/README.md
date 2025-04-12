@@ -44,4 +44,4 @@ Please note the following:
 - The script is provided in the spirit of The Ojibwe People's Dictionary's goal to make the dictionary content available as a tool for Ojibwe language revitalization, academic scholarship and cultural awareness. Neither the data in the Ojibwe People's Dictionary nor this code are to be used for commercial purposes.
 
 ## Contact
-Created by tyler.coding.projects@gmail.com - feel free to contact me!
+Created by tyler.derek.long@gmail.com - feel free to contact me!
